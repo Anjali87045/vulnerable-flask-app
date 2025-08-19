@@ -21,7 +21,7 @@ platformdirs==4.0.0
 pylint==3.3.4
 SQLAlchemy==2.0.23
 tomli==2.0.1
-tomlkit==0.12.3
+tomlkit==0.13.3
 typing_extensions==4.12.2
 uWSGI==2.0.23
 Werkzeug==3.1.3
